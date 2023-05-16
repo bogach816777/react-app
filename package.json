@@ -1,9 +1,0 @@
-{
-  "dependencies": {
-    "build": "^0.1.4",
-    "yarn-install": "^1.0.0"
-  },
-  "devDependencies": {
-    "gh-pages": "^5.0.0"
-  }
-}
